@@ -64,5 +64,5 @@ Watch the full demonstration of Lost Linker on YouTube: [Lost Linker Demo](https
 #### Step 3: Clone the Repository
 
 ```bash
-git clone https://github.com/aman0311x/lost-linker.git
+git clone https://github.com/ehsannoman/Lost-Linker
 cd lost-linker
