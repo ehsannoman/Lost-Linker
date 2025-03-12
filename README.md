@@ -17,7 +17,7 @@ Lost Linker is a dedicated lost and found app designed specifically for universi
 
 ### Demonstration
 
-Watch the full demonstration of Lost Linker on YouTube: [Lost Linker Demo](https://www.youtube.com/watch?v=lvcC98XWZBs)
+Watch the full demonstration of Lost Linker on YouTube: [Lost Linker Demo](https://youtu.be/Z4z1xV1mcXw)
 
 ### Requirements
 
